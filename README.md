@@ -18,6 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
+    @copyright = AHdevViewTool::Renderer.copyright 'Alex H', 'All rights reserved'
+```
 TODO: Write usage instructions here
 
 ## Development
