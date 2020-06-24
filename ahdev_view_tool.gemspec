@@ -3,12 +3,12 @@ require_relative 'lib/ahdev_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "ahdev_view_tool"
   spec.version       = AhdevViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Alex"]
+  spec.email         = ["ah3@ah3.dev"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific methods for applications I use.}
+  spec.description   = %q{Provieds generated HTML data for Rails applications}
+  spec.homepage      = "www.ah3.dev"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
